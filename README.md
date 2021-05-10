@@ -1,1 +1,1 @@
-# graphQL-playlist
+# graphQL playlist
